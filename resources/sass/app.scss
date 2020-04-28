@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.sidebar{
+    border-left: 2px solid yellowgreen;
+    margin:10px 0px;
+}
+.showcase{
+    border: 2px solid black;
+    margin:10px 0px;
+    background: gray;
+    text-align: center;
+}
